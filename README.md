@@ -39,17 +39,23 @@ Topics: ROW_NUMBER() · RANK() · DENSE_RANK() . LEAD() . LAG()
 
 🎥 SQL Server Content
 I create practical SQL Server tutorials focused on real-world database and analytical problems.
-
-Topics: SQL Server · T-SQL · Window Functions · Advanced SQL · SSIS · ETL · Data Engineering
+Topics: 
+- SQL Server
+- T-SQL
+- Window Functions
+- Advanced SQL
+- SSIS
+- ETL
+- Data Engineering
 
 🎥 [YouTube Channel](https://www.youtube.com/@AjayKumarSQL)
 
 🚀 Currently Working On
-Advanced SQL Server projects
-Enterprise SSIS / ETL architecture
-Advanced T-SQL
-Query performance and optimization
-Practical data engineering projects
+- Advanced SQL Server projects
+- Enterprise SSIS / ETL architecture
+- Advanced T-SQL
+- Query performance and optimization
+- Practical data engineering projects
 📫 [Connect With Me](k.ajaykumar556@gmail.com) 
 
 💻 [GitHub](https://github.com/Ajay5218/Ajay5218)
