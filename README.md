@@ -7,7 +7,7 @@
 I’m a SQL Server professional with 10+ years of experience in SQL development, database programming, ETL, and data engineering.
 I use GitHub to document practical SQL Server projects, reusable T-SQL solutions, ETL implementations, and real-world data engineering concepts.
 
-🛠️**Technical Skills**
+**Technical Skills**
 - Microsoft SQL Server
 - T-SQL
 - Stored Procedures
@@ -33,12 +33,10 @@ I use GitHub to document practical SQL Server projects, reusable T-SQL solutions
 - Configuration-Driven ETL
   
 ## ⭐ Featured Project
-
 ### [SQL Server Window Functions Series](https://github.com/Ajay5218/sql-server-window-functions-series)
 
-Practical SQL Server examples covering window functions and real-world analytical scenarios.
+Practical SQL Server examples covering window functions and real-world analytical scenarios.<br>
 **Topics include:**
-
 - `ROW_NUMBER()`
 - `RANK()`
 - `DENSE_RANK()`
@@ -46,7 +44,7 @@ Practical SQL Server examples covering window functions and real-world analytica
 - `LAG()`
 
 🎥 **SQL Server Content**
-I create practical SQL Server tutorials focused on real-world database and analytical problems.
+I create practical SQL Server tutorials focused on real-world database and analytical problems.<br>
 **Topics:** 
 - SQL Server
 - T-SQL
@@ -57,7 +55,6 @@ I create practical SQL Server tutorials focused on real-world database and analy
 - Data Engineering
 
 🎥 [YouTube Channel](https://www.youtube.com/@AjayKumarSQL)
-
 🚀 **Currently Working On**
 - Advanced SQL Server projects
 - Enterprise SSIS / ETL architecture
