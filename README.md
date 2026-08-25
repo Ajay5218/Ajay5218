@@ -35,7 +35,7 @@ ETL & Data Engineering
 - SQL Server Window Functions Series
 
 Practical SQL Server examples covering window functions and real-world analytical scenarios.
-- Topics: 
+Topics include: 
 - ROW_NUMBER() 
 - RANK() 
 - DENSE_RANK() 
