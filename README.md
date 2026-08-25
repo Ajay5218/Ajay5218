@@ -7,42 +7,37 @@ I’m a SQL Server professional with 10+ years of experience in SQL development,
 I use GitHub to document practical SQL Server projects, reusable T-SQL solutions, ETL implementations, and real-world data engineering concepts.
 
 🛠️ Technical Skills
-SQL & Database
-
-Microsoft SQL Server
-T-SQL
-Stored Procedures
-Views & Functions
-CTEs
-Window Functions
-Complex Joins & Aggregations
-Transactions & Error Handling
+- Microsoft SQL Server
+- T-SQL
+- Stored Procedures
+- Views & Functions
+- CTEs
+- Window Functions
+- Complex Joins & Aggregations
+- Transactions & Error Handling
 
 Performance
-
-Query Optimization
-Execution Plans
-Indexing
-Performance Tuning
+- Query Optimization
+- Execution Plans
+- Indexing
+- Performance Tuning
 
 ETL & Data Engineering
-
-SSIS
-ETL Pipelines
-Staging & Landing Layers
-Incremental Loading
-Data Validation
-Audit Frameworks
-Configuration-Driven ETL
+- SSIS
+- ETL Pipelines
+- Staging & Landing Layers
+- Incremental Loading
+- Data Validation
+- Audit Frameworks
+- Configuration-Driven ETL
+- 
 ⭐ Featured Projects
-SQL Server Window Functions Series
+- SQL Server Window Functions Series
 
 Practical SQL Server examples covering window functions and real-world analytical scenarios.
-
 Topics: ROW_NUMBER() · RANK() · DENSE_RANK() 
 
 🎥 SQL Server Content
-
 I create practical SQL Server tutorials focused on real-world database and analytical problems.
 
 Topics: SQL Server · T-SQL · Window Functions · Advanced SQL · SSIS · ETL · Data Engineering
