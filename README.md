@@ -7,7 +7,7 @@
 I’m a SQL Server professional with 10+ years of experience in SQL development, database programming, ETL, and data engineering.
 I use GitHub to document practical SQL Server projects, reusable T-SQL solutions, ETL implementations, and real-world data engineering concepts.
 
-🛠️** Technical Skills**
+🛠️# Technical Skills
 - Microsoft SQL Server
 - T-SQL
 - Stored Procedures
@@ -77,5 +77,3 @@ I create practical SQL Server tutorials focused on real-world database and analy
 💻 [GitHub](https://github.com/Ajay5218/Ajay5218)
 💼 [LinkedIn](www.linkedin.com/in/kajaykumar)
 🎥 [YouTube](https://www.youtube.com/@AjayKumarSQL)
-
-I am also willing to offer my services as a freelancing SQL tutor. Drop me an email at 📩 **k.ajaykumar556@gmail.com** 
