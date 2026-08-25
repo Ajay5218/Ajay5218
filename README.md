@@ -7,7 +7,7 @@
 I’m a SQL Server professional with 10+ years of experience in SQL development, database programming, ETL, and data engineering.
 I use GitHub to document practical SQL Server projects, reusable T-SQL solutions, ETL implementations, and real-world data engineering concepts.
 
-**Technical Skills**
+##Technical Skills
 - Microsoft SQL Server
 - T-SQL
 - Stored Procedures
