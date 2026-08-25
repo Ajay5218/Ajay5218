@@ -55,3 +55,6 @@ Practical data engineering projects
 💻 [GitHub](https://github.com/Ajay5218/Ajay5218)
 💼 [LinkedIn](www.linkedin.com/in/kajaykumar)
 🎥 [YouTube](https://www.youtube.com/@AjayKumarSQL)
+
+I am also willing to offer my services as a freelancing SQL tutor. Drop me an email at 📩<img width="640" height="640" alt="Suggestion" src="https://github.com/user-attachments/assets/942e4f85-e664-47b9-9553-9744f2c51511" />
+ **k.ajaykumar556@gmail.com** 
