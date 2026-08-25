@@ -35,7 +35,7 @@ I use GitHub to document practical SQL Server projects, reusable T-SQL solutions
 - SQL Server Window Functions Series
 
 Practical SQL Server examples covering window functions and real-world analytical scenarios.
-Topics include: 
+**Topics include:** 
 - ROW_NUMBER() 
 - RANK() 
 - DENSE_RANK() 
@@ -44,7 +44,7 @@ Topics include:
 
 🎥 **SQL Server Content**
 I create practical SQL Server tutorials focused on real-world database and analytical problems.
-Topics: 
+**Topics:** 
 - SQL Server
 - T-SQL
 - Window Functions
@@ -61,7 +61,6 @@ Topics:
 - Advanced T-SQL
 - Query performance and optimization
 - Practical data engineering projects
-📫 [Connect With Me](k.ajaykumar556@gmail.com) 
 
 💻 [GitHub](https://github.com/Ajay5218/Ajay5218)
 💼 [LinkedIn](www.linkedin.com/in/kajaykumar)
