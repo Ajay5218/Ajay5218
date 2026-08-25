@@ -30,7 +30,7 @@ ETL & Data Engineering
 - Data Validation
 - Audit Frameworks
 - Configuration-Driven ETL
-- 
+  
 ⭐ Featured Projects
 - SQL Server Window Functions Series
 
@@ -50,7 +50,7 @@ Enterprise SSIS / ETL architecture
 Advanced T-SQL
 Query performance and optimization
 Practical data engineering projects
-📫 Connect With Me
+📫 [Connect With Me](k.ajaykumar556@gmail.com) 
 
 💻 [GitHub](https://github.com/Ajay5218/Ajay5218)
 💼 [LinkedIn](www.linkedin.com/in/kajaykumar)
