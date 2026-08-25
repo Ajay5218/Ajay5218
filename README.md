@@ -47,7 +47,7 @@ I create practical SQL Server tutorials focused on real-world database and analy
 
 Topics: SQL Server · T-SQL · Window Functions · Advanced SQL · SSIS · ETL · Data Engineering
 
-🎥 [YouTube Channel](https://www.youtube.com/@AjayKumarSQL))
+🎥 [YouTube Channel](https://www.youtube.com/@AjayKumarSQL)
 
 🚀 Currently Working On
 Advanced SQL Server projects
@@ -57,6 +57,6 @@ Query performance and optimization
 Practical data engineering projects
 📫 Connect With Me
 
-💻 [GitHub](https://github.com/Ajay5218/Ajay5218))
+💻 [GitHub](https://github.com/Ajay5218/Ajay5218)
 💼 [LinkedIn](www.linkedin.com/in/kajaykumar)
-🎥 [YouTube]([url](https://www.youtube.com/@AjayKumarSQL))
+🎥 [YouTube](https://www.youtube.com/@AjayKumarSQL)
