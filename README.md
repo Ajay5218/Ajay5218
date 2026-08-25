@@ -6,7 +6,7 @@ T-SQL | SSIS | ETL | Data Engineering
 I’m a SQL Server professional with 10+ years of experience in SQL development, database programming, ETL, and data engineering.
 I use GitHub to document practical SQL Server projects, reusable T-SQL solutions, ETL implementations, and real-world data engineering concepts.
 
-🛠️ Technical Skills
+🛠️** Technical Skills**
 - Microsoft SQL Server
 - T-SQL
 - Stored Procedures
@@ -16,13 +16,13 @@ I use GitHub to document practical SQL Server projects, reusable T-SQL solutions
 - Complex Joins & Aggregations
 - Transactions & Error Handling
 
-Performance
+**Performance**
 - Query Optimization
 - Execution Plans
 - Indexing
 - Performance Tuning
 
-ETL & Data Engineering
+**ETL & Data Engineering**
 - SSIS
 - ETL Pipelines
 - Staging & Landing Layers
@@ -31,7 +31,7 @@ ETL & Data Engineering
 - Audit Frameworks
 - Configuration-Driven ETL
   
-⭐ Featured Projects
+⭐ **Featured Projects**
 - SQL Server Window Functions Series
 
 Practical SQL Server examples covering window functions and real-world analytical scenarios.
@@ -42,7 +42,7 @@ Topics include:
 - LEAD() 
 - LAG()
 
-🎥 SQL Server Content
+🎥 **SQL Server Content**
 I create practical SQL Server tutorials focused on real-world database and analytical problems.
 Topics: 
 - SQL Server
@@ -55,7 +55,7 @@ Topics:
 
 🎥 [YouTube Channel](https://www.youtube.com/@AjayKumarSQL)
 
-🚀 Currently Working On
+🚀 **Currently Working On**
 - Advanced SQL Server projects
 - Enterprise SSIS / ETL architecture
 - Advanced T-SQL
