@@ -1,7 +1,8 @@
-👋 Hi, I'm K. Ajay Kumar
+# 👋 Hi, I'm K. Ajay Kumar
 
-Manager | TL | Sr SQL Server Developer 
-T-SQL | SSIS | ETL | Data Engineering
+### Manager | Technical Lead | Senior SQL Server Developer
+
+**T-SQL | SQL Server | SSIS | ETL | Data Engineering**
 
 I’m a SQL Server professional with 10+ years of experience in SQL development, database programming, ETL, and data engineering.
 I use GitHub to document practical SQL Server projects, reusable T-SQL solutions, ETL implementations, and real-world data engineering concepts.
@@ -31,8 +32,19 @@ I use GitHub to document practical SQL Server projects, reusable T-SQL solutions
 - Audit Frameworks
 - Configuration-Driven ETL
   
-⭐ **Featured Projects**
-- SQL Server Window Functions Series
+## ⭐ Featured Project
+
+### [SQL Server Window Functions Series](https://github.com/Ajay5218/sql-server-window-functions-series)
+
+Practical SQL Server examples covering window functions and real-world analytical scenarios.
+
+**Topics include:**
+
+- `ROW_NUMBER()`
+- `RANK()`
+- `DENSE_RANK()`
+- `LEAD()`
+- `LAG()`
 
 Practical SQL Server examples covering window functions and real-world analytical scenarios.
 **Topics include:** 
