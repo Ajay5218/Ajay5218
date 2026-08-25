@@ -35,7 +35,7 @@ ETL & Data Engineering
 - SQL Server Window Functions Series
 
 Practical SQL Server examples covering window functions and real-world analytical scenarios.
-Topics: ROW_NUMBER() · RANK() · DENSE_RANK() 
+Topics: ROW_NUMBER() · RANK() · DENSE_RANK() . LEAD() . LAG()
 
 🎥 SQL Server Content
 I create practical SQL Server tutorials focused on real-world database and analytical problems.
@@ -56,5 +56,4 @@ Practical data engineering projects
 💼 [LinkedIn](www.linkedin.com/in/kajaykumar)
 🎥 [YouTube](https://www.youtube.com/@AjayKumarSQL)
 
-I am also willing to offer my services as a freelancing SQL tutor. Drop me an email at 📩<img width="640" height="640" alt="Suggestion" src="https://github.com/user-attachments/assets/942e4f85-e664-47b9-9553-9744f2c51511" />
- **k.ajaykumar556@gmail.com** 
+I am also willing to offer my services as a freelancing SQL tutor. Drop me an email at 📩 **k.ajaykumar556@gmail.com** 
