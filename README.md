@@ -1,12 +1,12 @@
 👋 Hi, I'm K. Ajay Kumar
-SQL Server Developer | T-SQL | SSIS | ETL | Data Engineering
+
+Manager | TL | Sr SQL Server Developer 
+T-SQL | SSIS | ETL | Data Engineering
 
 I’m a SQL Server professional with 10+ years of experience in SQL development, database programming, ETL, and data engineering.
-
 I use GitHub to document practical SQL Server projects, reusable T-SQL solutions, ETL implementations, and real-world data engineering concepts.
 
 🛠️ Technical Skills
-
 SQL & Database
 
 Microsoft SQL Server
